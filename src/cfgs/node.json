@@ -1,0 +1,7 @@
+{
+    "host": "lavalinkinc.ml",
+    "port": 443,
+    "password": "incognito",
+    "https": true,
+    "spotify_client_id": "e5dfefffb5c54f5495d0173776e9e195" 
+}
